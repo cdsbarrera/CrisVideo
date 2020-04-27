@@ -1,0 +1,6 @@
+{
+    "presets": [
+      "@babel/preset-env", //ECMAC 5
+      "@babel/preset-react" //ECMAC 6
+    ]
+}
